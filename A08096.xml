@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An edict or proclamation;  published by the States generall of the vnited Prouinces, touching an order by them prescribed, how all Iesuits, priests and monkes of the Popish or Romish religion (that are within or hereafter shall come into the said vnited Prouinces) shall behaue themselues, &amp;c. Withall, prohibiting all their subiects from binding themselues by oath or otherwise, to maintaine and vphold the power and authoritie of the Pope of Rome, and from making of any assemblies &amp; collections for the vpholding and executing of the Romish superstitions, or any other points thereunto depending. Giuen at the Hage the 27. of March Anno. 1612</title>
+            <author>United Provinces of the Netherlands. Staten Generaal.</author>
+         </titleStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A08096</idno><idno type="EEBO-CITATION">99840709</idno>
+  <idno type="VID">5236</idno>
+  <idno type="EEBO-PROQUEST">2240904246</idno>
+  <idno type="STC">STC 18457</idno>
+  <idno type="STC">ESTC S104979</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99840709e"/>
+            <note>(EEBO-TCP ; phase 2, no. A08096)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5236)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 896:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An edict or proclamation;  published by the States generall of the vnited Prouinces, touching an order by them prescribed, how all Iesuits, priests and monkes of the Popish or Romish religion (that are within or hereafter shall come into the said vnited Prouinces) shall behaue themselues, &amp;c. Withall, prohibiting all their subiects from binding themselues by oath or otherwise, to maintaine and vphold the power and authoritie of the Pope of Rome, and from making of any assemblies &amp; collections for the vpholding and executing of the Romish superstitions, or any other points thereunto depending. Giuen at the Hage the 27. of March Anno. 1612</title>
+                  <author>United Provinces of the Netherlands. Staten Generaal.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. A[llde] for Thomas Archer, and are to be sold at his shop in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1612.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catholics --  Netherlands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5236:1"/>
+            <p>An Edict or Procla<g ref="char:EOLhyphen"/>mation; published by the States ge<g ref="char:EOLhyphen"/>nerall of the vnited Prouinces, touching an or<g ref="char:EOLhyphen"/>der by them prescribed, how all Iesuits, Priests and Monkes of the Popish or Romish Religion (that are within or hereafter shall come into the <hi>said vnited Prouinces) shall behaue themselues, &amp;c.</hi>
+            </p>
+            <p>Withall, prohibiting all their Subiects from bin<g ref="char:EOLhyphen"/>ding themselues by Oath or otherwise, to maintaine <hi>and vphold the power and authoritie of the Pope of Rome,</hi> and from making of any assemblies &amp; Collections for the vpholding and excecuting of the Romish superstitions, or any other points thereunto depending. <hi>Giuen at the</hi> Hage <hi>the</hi> 27. <hi>of March Anno.</hi> 1612.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>London Printed by <hi>E. A.</hi> for <hi>Thomas Archer,</hi> and are to be sold at his shop in Popes-head Alley. 1612.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:5236:2"/>
+            <head>The Priuiledge.</head>
+            <p>THis day being the 27. day of March anno 1612 the States generall of the vnited Prouinces, haue granted and authorised and by these pre<g ref="char:EOLhyphen"/>sents doe grant and authorise, their sworne and or<g ref="char:EOLhyphen"/>dinary Printer, <hi>Hillebrant Iacobson,</hi> that he onely within the Netherlands, shall print the Proclamati<g ref="char:EOLhyphen"/>on by them made, concerning the comming and staying of the Iesuites, Monkes, and other spirituall persons of the Romish religiō, into the said Nether<g ref="char:EOLhyphen"/>lands: as also against frequenting to the schooles of the said Iesuites, and other points concerning the same, made and set forth by the said States at this time, vpon paine of forfeiture of all the printed co<g ref="char:EOLhyphen"/>pies, so printed by any other Printer, and of the somme of 150. pound, of 40. groates to the pound: one third part thereof to the Officer that shall bee employed to seaze vpon the same, one third part for the poore, and the other third part for the Printer to the said States aforesaid. Giuen at the assemblie of the said generall States: In the Hage, the day and yeare abouesaid. Signed.</p>
+            <closer>
+               <signed>
+                  <hi>Iohn van Oldenbarnevelt.</hi>
+                  <lb/> and vnder<lb/> By the aide &amp; appointment of the States<lb/> generall of the vnited Prouinces.<lb/>
+                  <hi>C. Aerssen.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb n="1" facs="tcp:5236:2"/>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE States generall of the vnited</hi> Prouinces of the Nether-lands, to all men to whome these presents come to be seene or read, greeting. Being certainely and truely informed, that daily and continually many Priests, Monkes and other Spirituall or religious persons, which professe the Popish religion, and specially many of the most pernicious and dangerous sect of the Ie<g ref="char:EOLhyphen"/>suits, do enter into and staie and remaine within the vnited Prouinces of the Nether-lands, wherein they teach Seruice and disperse their strange doctrine and superstitions amongst their good and faithfull Subiects: and also establish and ingraft diuers and many superstitions which are expressely forbidden and prohibited by the word of God: &amp; especially labor to maintain &amp; vp<g ref="char:EOLhyphen"/>hold the vsurped tyrannous power of the Pope of Rome, placing the same not only in spirituall but also in temporall matters aboue all Kings, Princes, Potentates and Common-wealths whatsoeuer, &amp; not content therewith, extending the same so farre as that they make it of power to dispose of the very persons of Kings and Prin<g ref="char:EOLhyphen"/>ces, and of their Kingdomes, lands and sitates at his pleasure, and to diuert and withdraw their subiects from the due obedience which they owe and are bound to yeeld vnto them, which their proceedings doe openly tend vnto an vprore and great perturbation of the common peace and tranquilitie of all Countries and Nations,
+<pb n="2" facs="tcp:5236:3"/> whereby great occasions are giuen and opened to moue and stirre vp many grieuous and murthe<g ref="char:EOLhyphen"/>rous actions, whereof the Kingdomes of <hi>France,</hi> &amp; great <hi>Brittaine,</hi> as also the <hi>Venetian</hi> Common<g ref="char:EOLhyphen"/>wealth, can giue most wonderfull and admira<g ref="char:EOLhyphen"/>ble testimonies: which considered, for as much therefore as wee, &amp; some of the States of some of the perticular Prouinces of the vnited Nether<g ref="char:EOLhyphen"/>lands, haue heretofore thought it conuenient, to make and publish diuers and seuerall Edicts or Proclamations, not onely to let and hinder that the subiects of these Countries should not be in<g ref="char:EOLhyphen"/>fected and led away, with and by the errors a<g ref="char:EOLhyphen"/>foresaid, (which wholy resist &amp; are contrarie vnto the true Christian Religion, as also against the lawfull gouernment of these Countries:) and that those that are already led away and infected with them, or that by oath haue bound them<g ref="char:EOLhyphen"/>selues to maintaine the Popish errors, and to vp<g ref="char:EOLhyphen"/>hold their aforesaid pernicious doctrine, neither may nor shall be admitted to any estate or office in any place of the said vnited Nether-lands, as also (according to the common lawes and ordi<g ref="char:EOLhyphen"/>nances of the land) to restraine all conuenticles and assemblies and meetings, whereby any nota<g ref="char:EOLhyphen"/>ble and apparant mischiefe or hurt might grow or happen vnto the common State of these Prouinces, as also all collection &amp; secret gathe<g ref="char:EOLhyphen"/>rings of mony, which tend vnto the impouerish<g ref="char:EOLhyphen"/>ing of these Countries: And for that in all the said things aforesaid it is requisite and necessarie,
+<pb n="3" facs="tcp:5236:3"/> generally to make prouision for these me through out al the aforesaid vnited Prouinces, as also that thereby there may a good correspondencie held &amp; prouision made for good order to be holden and kept, between the subiects of these countries, and the subiects of our neighbours, and that like con<g ref="char:EOLhyphen"/>uersation (according to the prepositions aforesaid with the continuance of freedome, liberty, and security of these cuntries, vnder good and whole<g ref="char:EOLhyphen"/>some lawes, whereby euery man may know how to gouerne himselfe) may be held and continued, as it is vsed and obserued in other kingdomes and countries.</p>
+            <p>So it is, that after many and diuers Procla<g ref="char:EOLhyphen"/>mations and orders, made, published, and set downe, both in these countries in former times, and also in other neighbor kingdomes and coun<g ref="char:EOLhyphen"/>tries, by aduise of his Excellencie, and the coun<g ref="char:EOLhyphen"/>sell of Estate, we haue ordained and established, and by these presents doe ordaine and establish, that all Priests, Monkes, Iesuites, and other spirituall or religious persons of the romish reli<g ref="char:EOLhyphen"/>gion, of what order or degree soeuer they be, who within two months after the publication here<g ref="char:EOLhyphen"/>of, shall or will come into the vnited netherland Prouinces, shall be bound at their entrie into the first towne thereof, and also in euery place after<g ref="char:EOLhyphen"/>ward, where they will or we<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e to lodge, shall signifie their names, quallities, and places of lod<g ref="char:EOLhyphen"/>ging, vnto the chiefe Officer of the said place or places, if he be resident therein, or els to any other
+<pb n="4" facs="tcp:5236:4"/> meaner Officer there resident: and also after the said two moneths aforesaid, shall be bound to cer<g ref="char:EOLhyphen"/>tifie and make knowne vnto the said Officers, all the names of the persons of the said qualities a<g ref="char:EOLhyphen"/>foresaid, which are already come into the saide countrie, and haue no certaine place of aboad within the same, which shall also by the said Offi<g ref="char:EOLhyphen"/>cers be especially and truly noted downe and re<g ref="char:EOLhyphen"/>corded, and the said vnder Officers shall certifie the same vnto the head Officers, and the said head Officers in like sort shall enforme the Ma<g ref="char:EOLhyphen"/>gistrates of the towne perticularly thereof, to the end that both by the one as well as the other of them, great care and foresight may be had and taken, that by the said strange persons there may be nothing attempted nor done, contrary to the peace, good, and welfare of the vnited nether<g ref="char:EOLhyphen"/>land Prouinces: and if it happen that any of the persons aforesaid, shall not haue so giuen and cer<g ref="char:EOLhyphen"/>tified his name as aforesaid, the said person so offending, shall forfeit for the same offence, the somme of 50. guilders, and besides that fine, shall be charged and commanded to depart out of the vnited Netherland Prouinces, and neuer to re<g ref="char:EOLhyphen"/>turne againe into the same, vpon paine of open and publique banishment. We also commaund al and euery person with whome the said Iesuits, Priests, Monkes, and other spirituall or religi<g ref="char:EOLhyphen"/>ous persons, shall come or happen to lodge, to search and enquire whether they haue presented and giuen vp their names as aforesaid, and if they
+<pb n="5" facs="tcp:5236:4"/> finde it not to be done accordingly, that they shall (before the third night of their lodging with them,) make knowne the names and qualities of the said persons vnto the Officers aforesaid, v<g ref="char:EOLhyphen"/>pon paine of forfeiture of 100. Guilders, with<g ref="char:EOLhyphen"/>out any excuse by any of them to be made or al<g ref="char:EOLhyphen"/>leaged, that he knew not the person or persons so lodging at his house as afore said, common Inne-keepers or houses of lodging onely excep<g ref="char:EOLhyphen"/>ted, of whome such knowledge cannot well bee had.</p>
+            <p>Forbidding further, all and euery one of our sub<g ref="char:EOLhyphen"/>iects of these Countries, after the publication hereof, not to enter into any Coledge or Schole of Iesuites, vpon paine of euer to be disabled, to serue, hold, or haue any office or estate within these Countries, or to enioy any Prebends or Chanons place, or any other benefice whatso<g ref="char:EOLhyphen"/>euer, and further euery month that they remaine, and continue in the aforesaid Scholes or Col<g ref="char:EOLhyphen"/>ledges, shall forfeit and pay 100. Guilders, and the like penaltie both of disabling them, and of pecuniarie punishment shall be inflicted vpon all those, who before the publication of these pre<g ref="char:EOLhyphen"/>sents, haue entred into the said schooles or Col<g ref="char:EOLhyphen"/>ledges, and within two moneths after the pub<g ref="char:EOLhyphen"/>lication heereof, haue not left and forsaken the same. And if the said persons haue no goods of their owne, their pacents or Tutors shall bee bound to pay the same, vnles that such persons a<g ref="char:EOLhyphen"/>foresaid, haue entred into, and remaine in the said
+<pb n="6" facs="tcp:5236:5"/> schooles or colledges, without the knowledge and consent of their said Parents or tutors: In which case, the said parents &amp; Tutors shall be expresly forbidden and prohibited to send or giue any mony directly or indirectly, vnto the said per<g ref="char:EOLhyphen"/>sons, vpon paine and forfeiture as aforesaid, to be taken and deducted out of their owne goods and liuings: We doe also by these presents, pronounce and declare all alienation, or conueyances of goods before hand, made by the persons, that con<g ref="char:EOLhyphen"/>trary to this our ordinance doe stay, or heereafter doe enter into the said colledges or schooles, to be void and of no force nor effect, and all their gifts, testaments, bequests, and other conueyances, made or to be made by them, during their staying in the said schooles or colledges, likewise to be voide.</p>
+            <p>We also expresly forbid, that no person what<g ref="char:EOLhyphen"/>soeuer, being naturally borne, or an inhabitant in these countries, shall be admitted or promoted to any estate, office, or publike seruice in the afore<g ref="char:EOLhyphen"/>said countries, villages, or townes thereof, who within two moneths after the publication heere<g ref="char:EOLhyphen"/>of, shall accept and receaue their said promotion or offices, by oath to defend and maintaine the Romish errors and superstitions: And that all those that since the pacification made at Gaunt in <hi>anno</hi> 1576. (hauing taken such an oath) haue bin admitted and receaued into seruice, within two moneths after the publication heereof, shall seeke to be vnburthened and discharged of the said oath
+<pb n="6" facs="tcp:5236:5"/> &amp; shall take an oath of alleagiance to the States in the place where they shall dwell and inhabite, according to the custome and manner of the said place, vnles they haue already taken the same oath of alleagiance, or openly haue left and forsa<g ref="char:EOLhyphen"/>ken the said romish superstitions aforesaid: of which their said oath to be discharged, and to take a new oath of alleagiance. We haue authori<g ref="char:EOLhyphen"/>sed, and by these presents doe authorise the ordi<g ref="char:EOLhyphen"/>nary Magistrate of the place, where any such per<g ref="char:EOLhyphen"/>son shall dwell or inhabit, to doe it: and the office or state of all those that shall not doe accordingly, shall presently be voide, and the said persons vt<g ref="char:EOLhyphen"/>terly and for euer put from their said offices. Wee ordaine further, that all those that are promoted or preferred vnder the aforesaid oath, or that heereafter shall be so premoted or preferred (and dwell within the said vnited Prouinces, or that heereafter shall desire to dwell therein, within one month after the publication heereof, or after that they shall heereafter dwell within the said vnited Prouinces) shall appeare before the Magistrate of the place where they are resident, and there make and take their oaths of alleagiance vnto these cuntries, vpon paine, that for not doing so, they shall depart out of the said Prouinces, and if they doe it not, that at the end of the first moneth next after that ensuing, they shall forfet 50. guil<g ref="char:EOLhyphen"/>ders: at the end of two moneths 100. guilders, and if they depart not out of the countrie within the third moneth, that then they shall be presently
+<pb n="8" facs="tcp:5236:6"/> banished out of the said vnited Prouinces.</p>
+            <p>We also expresly forbid all the subiects of our said countries, and others, frequenting the same, both within the townes, and also in the villages and countries thereof: To make or hold any as<g ref="char:EOLhyphen"/>semblies of men or women, within any chur<g ref="char:EOLhyphen"/>ches, perticuler houses, places, fields, ships, or s<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tes, therein to heare Masse, or to doe, or exer<g ref="char:EOLhyphen"/>cise, or heare any popish superstition, exhortation, instruction, or reading, or otherwise to hold, or help to hold any assembly or any gatherings to<g ref="char:EOLhyphen"/>gether of any persons, of the romish religion, (al<g ref="char:EOLhyphen"/>though there be no Priest, Monke, nor any other spirituall person there present among them, that should say Masse, or teach or instruct them in the said superstitions aforesaid) vnder what pretence or colour soeuer it may be, neither secretly nor o<g ref="char:EOLhyphen"/>penly, vpon paine to forfeit 200. guilders, to be le<g ref="char:EOLhyphen"/>uied vpon him in whose house, field, ship, or scute, such assemblies or meetings shall be made: and that he that shall haue so said Masse, or taught a<g ref="char:EOLhyphen"/>ny popish superstitions, exhortations, instructi<g ref="char:EOLhyphen"/>ons, or admonitions, if he be one that commeth out of other parts, or Prouinces, not subiect to the vnited Prouinces, shall be perpetually banished out of the said vnited Prouinces, vpon paine of corporall punishment, and withall shall be con<g ref="char:EOLhyphen"/>demned to pay a great fine: And if he be one that is resident within the vnited Prouinces, he shall presently depart out of the same, and neuer re<g ref="char:EOLhyphen"/>turne into them againe, vpon paine to be openly and
+<pb n="9" facs="tcp:5236:6"/> perpetually banished from thence, and of corpo<g ref="char:EOLhyphen"/>rall punishment if he returne againe: and that further he shall be depriued of his benefice or spi<g ref="char:EOLhyphen"/>rituall liuing, (if he hath any) and shall not bee suffered to staie, lodge, harbour, remaine or con<g ref="char:EOLhyphen"/>tinue, within any towne or place of these Coun<g ref="char:EOLhyphen"/>tries, vpon paine of forfeiture for the first time of 100. Guilders, to be paid by him that shall so staie, lodge, harbour, hold or keepe him, contrarie to this our Proclamation: &amp; for the second time of 200. guilders: for the third time of 300. Guilders, for the fourth time of 400. Guilders, and banish- as aforesaid. And he that shall be found to haue said or to say masse, or taught or teach any popish supestitions, admonitions, instructions, and ex<g ref="char:EOLhyphen"/>hortations oforesaid, shall loose his benefice or spirituall liuings if he haue any, and also be find at the some of 25. Guilders for euerie time that he shall haue so said masse as aforesaid, whether hee be found presently &amp; instantly doing the same, or that afterward it shall be knowne that hee hath done it: and the like pecuniary punishment of 25. Guilders, shall be laid vpon all those that were present at the hearing of the same: and further being found actually present at the same shall loose and forfeit their vpper garment which they then shall weare.</p>
+            <p>But if it happen that any man be found to haue dispersed, taught or strewed abroad any doctrine or learning which is contrarie and repugnant to the gouernment of these Countries, and tending
+<pb n="2" facs="tcp:5236:7"/> to the diuerting of the subiects of the same from their true obedience, hee shall be punished corpo<g ref="char:EOLhyphen"/>rally as a seditious and mutinous fellow, and put to death, if the waightines of the cause and matter by him effected and procured doth require the same. We further ordaine, that he, who vn<g ref="char:EOLhyphen"/>der pretence of being of the Romish Religion, shal suffer or procure himselfe to be maried or baptized againe by any Priest, Curate, Monke or Frier, shall forfeit and paie 100. Guilders, and further be punished at the Magistrates pleasure, and all those that shall be present at the said mari<g ref="char:EOLhyphen"/>age or baptizing, shall forfeit 50. Guilders, and the Priest, Curate, Monke or Frier that shall haue done the same shall be punished with the like paine, forfeit, and correction as afore<g ref="char:EOLhyphen"/>said. And that all those either men or wo<g ref="char:EOLhyphen"/>men, that shall bee found to haue had any knowledge thereof, or that haue giuen their con<g ref="char:EOLhyphen"/>sent vnto any such assemblies or meetings, shall forfeit foure times as much as those or they that were or shall be personally found present at the said assemblies. We also expresly forbid and pro<g ref="char:EOLhyphen"/>hibit, all persons dwelling or inhabiting within these cuntries, or that frequent the same, to make any collections or gatherings of mony, to be ca<g ref="char:EOLhyphen"/>ryed or conueyed out of these countries, whether it be for any Churches, Hospitalls, Colledges, or Couents, or for any other cause or purpose what<g ref="char:EOLhyphen"/>soeuer, nor yet to contribute to any such collecti<g ref="char:EOLhyphen"/>ons, without the speciall consent and licence of
+<pb n="3" facs="tcp:5236:7"/> the chiefe commaunders of the said Prouinces, vpon paine that he or they that shall make any such collection or contributions, or that shall car<g ref="char:EOLhyphen"/>ry or conuey the said mony out of the country, shall be punished corporally, and forfet and loose all his goods: and all those that shall haue contributed thereunto, shall be arbitrately punished, and fur<g ref="char:EOLhyphen"/>ther shall pay for a fine foure times asmuch as they shall haue giuen or paid vnto the said contri<g ref="char:EOLhyphen"/>bution.</p>
+            <p>All which forfeitures and penalties aforesaid, shall be employed and distributed in this manner: that is, one third part for the Officer that shal see the same executed, one third part for him that shal giue notice and information thereof, and one third part to the behoofe and common profit of the countrie: all the perticuler ordinances and or<g ref="char:EOLhyphen"/>ders heeretofore made and set downe concerning the said points aforesaid, by the perticuler Pro<g ref="char:EOLhyphen"/>uinces, remayning still in their former strength and force.</p>
+            <p>And that no man may hereafter pretend any ignorance herein, we require and earnestly desire the States, State-holders, particular Coun<g ref="char:EOLhyphen"/>selles, and the deputed States of the Prouinces of Gelder-land, Zutphen, Holland, West-freeze<g ref="char:EOLhyphen"/>land, Zealand, Vtrecht, Freeseland, Ouer-issell, the Towne of Gweninghe and the Countrie cir<g ref="char:EOLhyphen"/>cumiacent. We also will and command the Coun<g ref="char:EOLhyphen"/>selles of Brabant and Flanders, the Drossart
+<pb n="12" facs="tcp:5236:8"/> of Drent, Wedde, and Wester-wolding-land, and all other Iustices and Officers whome it in any wise concerneth, to make this our ordinance and Proclamation presently to be knowne publi<g ref="char:EOLhyphen"/>shed and proclaimed in all places, wherein they are vsually, to be publishe and proclaime the same: with commaundement to the Chancelor, Presi<g ref="char:EOLhyphen"/>dents and Councels Aduocats fiscall, and At<g ref="char:EOLhyphen"/>torneis generall and to all other Officers and Iudges, and hauing Iurisdiction, to execute and cause to be executed, this our ordinance and com<g ref="char:EOLhyphen"/>mission: and to proceede against the repugners and breakers thereof without any grace or fa<g ref="char:EOLhyphen"/>uour, dissimulation, er retraction whatsoeuer. with expresse commandement vnto all Officers, not to make any composition or detraction, tou<g ref="char:EOLhyphen"/>ching the mittigatition of any of the paines and penalties set downe and specified in this our proclamation, but precisely to execute the con<g ref="char:EOLhyphen"/>tents of the same proclamation, touching the third part of the penalties therein contained be<g ref="char:EOLhyphen"/>longing vnto and appointed to be paid to the pro<g ref="char:EOLhyphen"/>fit and behoofe of the Countrie, and thereof to yeeld a iust and true account, as farre as they are by their comission bound to doe. And to suffer and permit the enformers thereof peaceably &amp; with<g ref="char:EOLhyphen"/>out any abridgement of the same to follow and pursue the parties offending, for their third part, vpon paine of depriuation of their Offices, and further to suffer and endure Arbitrarie pu<g ref="char:EOLhyphen"/>nishment,
+<pb n="13" facs="tcp:5236:8"/> as wee for the profit and the good of the Countrie shall thinke meete and conue<g ref="char:EOLhyphen"/>nient.</p>
+            <closer>
+               <dateline>Giuen in the assemblie of the States generall of the vnited Netherlands Prouinces, in the <hi>Hage</hi>
+                  <date>the 27. of March <hi>Anno.</hi> 1612.</date>
+               </dateline>
+               <signed>
+                  <hi>Iohn van Oldenbarnevelt.</hi>
+                  <lb/> and vnder<lb/> By order of the said States,<lb/> generall.<lb/>
+                  <hi>C. Aerssen.</hi>
+               </signed>
+               <lb/>
+               <signed>Imprimator<lb/>
+                  <hi>Henric Mason.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
